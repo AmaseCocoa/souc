@@ -1,5 +1,10 @@
 # souc
+> [!IMPORTANT]
+> This repository contains only the backend/CLI. For frontend, check [soundcore-desktop](https://github.com/AmaseCocoa/soundcore-desktop).
+
 Soundcore settings on your PC
+
+
 ## Tested Devices
 (Because the behavior cannot be determined without analysis.) 
 
